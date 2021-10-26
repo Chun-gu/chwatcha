@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/chwatcha/static/js/main.84864190.chunk.js",
+    "main.js.map": "/chwatcha/static/js/main.84864190.chunk.js.map",
+    "runtime-main.js": "/chwatcha/static/js/runtime-main.09def592.js",
+    "runtime-main.js.map": "/chwatcha/static/js/runtime-main.09def592.js.map",
+    "static/js/2.074f8b85.chunk.js": "/chwatcha/static/js/2.074f8b85.chunk.js",
+    "static/js/2.074f8b85.chunk.js.map": "/chwatcha/static/js/2.074f8b85.chunk.js.map",
+    "index.html": "/chwatcha/index.html",
+    "static/js/2.074f8b85.chunk.js.LICENSE.txt": "/chwatcha/static/js/2.074f8b85.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/chwatcha/static/media/noPosterSmall.ea2ad102.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09def592.js",
+    "static/js/2.074f8b85.chunk.js",
+    "static/js/main.84864190.chunk.js"
+  ]
+}
